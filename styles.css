@@ -1,0 +1,25 @@
+input[type=text] {
+  width: 20%;
+  font-size:100%;
+  padding: 4px 8px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+input[type=submit]{
+	background-color: #3CBC8D;
+  	color: white;
+	width:5%;
+	padding: 8px;
+}
+
+span {
+  width: 20%;
+  padding: 4px 8px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid red;
+  border-radius: 4px;
+}
